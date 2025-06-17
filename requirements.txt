@@ -4,3 +4,5 @@ requests
 python-dotenv
 google-generativeai
 httpx
+aiogram
+nest_asyncio
